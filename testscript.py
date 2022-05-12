@@ -34,9 +34,8 @@ def publish(client):
         msg_count += 1
 
 
-print("Testinformation aufm Pi")
-print("Hier kommt ein Update, weil wir das so eingebaut haben hahah wuhu sagt der Kenneth Komisch, nachdem er einen großen Bumbi gemacht hat!")
-
+print("TestInfos über den Pi")
+print("Hier der erste Testversuch")
 
 time.sleep(4)
 
