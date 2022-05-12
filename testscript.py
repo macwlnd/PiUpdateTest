@@ -35,8 +35,11 @@ def publish(client):
 
 
 print("Testinformation aufm Pi")
-print("Der gibt jetzt noch mehr Zeilen aus!")
-print("Haha wuhu morty good hahahaha")
+print("Hier kommt ein Update, weil wir das so eingebaut haben hahah wuhu sagt der Kenneth Komisch, nachdem er einen großen Bumbi gemacht hat!")
+
+
+time.sleep(4)
+
 
 
 
