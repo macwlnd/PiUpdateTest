@@ -36,6 +36,7 @@ def publish(client):
 
 print("Testinformation aufm Pi")
 print("Der gibt jetzt noch mehr Zeilen aus!")
+print("Haha wuhu morty good hahahaha")
 
 
 
